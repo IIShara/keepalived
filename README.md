@@ -1,4 +1,5 @@
 # keepalived
+nano /etc/keepalived/keepalived.conf
 ```
 global_defs {
   enable_script_security
